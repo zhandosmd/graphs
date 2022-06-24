@@ -1,6 +1,5 @@
 package com.company;
 
-
 import java.util.*;
 
 class GraphWithMap{
@@ -48,6 +47,5 @@ class GraphWithMap{
 
         System.out.println();
     }
-
 }
 
